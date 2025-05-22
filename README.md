@@ -2,7 +2,7 @@
 
 ## 📝 Assessment Overview
 **Module:** CM2606 Data Engineering  
-**Deadline:** 18th April 2025, 12:00 p.m. IST  
+**Deadline:** 18th April 2025
 **Submission:**  
 - Report  
 - Video demonstration (for Question 1)  
@@ -16,12 +16,12 @@
 
 ## 📂 Repository Contents
 
-
+```bash
 Data_Engineering_Coursework/
-├── CM2606-CW-2025.pdf # Original coursework brief
+├── CM2606-CW-2025.pdf            # Original coursework brief
 ├── Data Engineering CW Report.pdf # Submitted report (contains all answers)
-└── README.md # This overview file
-
+└── README.md                     # This overview file
+```
 
 ## 🎥 Question 1: ETL Pipeline Demo
 [![Video Thumbnail](https://img.youtube.com/vi/.../0.jpg)](https://drive.google.com/file/d/1cNqBaZgcviXH04R707QccRQ1BtKFB6UM/view)  
